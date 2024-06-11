@@ -1,0 +1,40 @@
+.dark {
+  background-color: #333;
+  color: white;
+}
+
+.light {
+  background-color: #fff;
+  color: black;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.hero {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.cv-button {
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.social-links a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: inherit;
+}
