@@ -8,6 +8,7 @@ import Header  from './Components/Header';
 import Footer from './Components/Footer';
 import Myskill from './Pages/Myskill';
 import Conatct from './Pages/Contact';
+import EducationExperience from './Pages/Education';
 // import Projects from './pages/Projects';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
             <Route path="/Home" element={<Home />} />
             <Route path="/Myskill" element={<Myskill />} />
             <Route path="/Contact" element={<Conatct />} />
+            <Route path="/EducationExperience" element={<EducationExperience/>}/>
           </Routes>
         </div>
         <Footer />

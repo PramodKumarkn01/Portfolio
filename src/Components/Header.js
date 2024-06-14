@@ -37,7 +37,7 @@ function Header() {
     <a class="hover:underline hover:underline-offset-4" href="/projects">
       Projects
     </a>
-    <a class="hover:underline hover:underline-offset-4" href="#">
+    <a class="hover:underline hover:underline-offset-4" href="/EducationExperience">
       Education
     </a>
   </nav>
